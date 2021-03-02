@@ -2,7 +2,7 @@
 // 预加载
 function preload(){
     let gif = new Image();
-    gif.src = "../img/base64/tom.gif";
+    gif.src = "../xiaofan/img/base64/tom.gif";
 }
 preload();
 
